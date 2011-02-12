@@ -1,0 +1,11 @@
+{
+	"cuepoints":[
+		{"time":1000, "text": "Ekrem"},
+		{"time":4000, "text": "Duru"},
+		{"time":8000, "text": "Bu"},
+		{"time":12000, "text": "Senkronize"},
+		{"time":15000, "text": "Bir"},
+		{"time":25000, "text": "İçeriktir"},
+		{"time":30000, "text": "SYM"},
+		{"time":50000, "text": "Yazılım"}]
+}
